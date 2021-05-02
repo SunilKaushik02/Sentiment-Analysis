@@ -12,5 +12,5 @@ or has it died down.
 
 **Results:**
 1. There was an immediate impact on sentiment once the news was published. 
-2. The negative sentiment slowly died down after the news possibly because of numerous confident public statements from Elanco, concentration on other 
+2. The negative sentiment slowly died down after the news, possibly because of numerous confident public statements from Elanco, concentration on other 
 topics for media to cover like COVID.
