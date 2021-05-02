@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-##Web crawler to scrape e-commerce site to analyze review of a dog product.
+## Objective: Web crawler to scrape e-commerce site to analyze review of a dog product.
 
 Recently, on March 3, 2021 there was a class action suit followed by news in the US that **Seresto**, a dog/cat collar, 
 to prevent fleas and ticks had started developing allergies on the users of the collar. This event led US Parliamentary Committee
